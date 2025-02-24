@@ -1,0 +1,4 @@
+Esta es una línea de texto.
+------------------------------------
+Esta es una línea de texto agregada.
+La fecha es: 2025-02-23
